@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "728207512504",
+    "firebase_url": "https://bompro-39955.firebaseio.com",
+    "project_id": "bompro-39955",
+    "storage_bucket": "bompro-39955.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728207512504:android:c988f930ad9017e53ab54d",
+        "android_client_info": {
+          "package_name": "com.example.new_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728207512504-0k6b00sut7l2b6n2j4gf43d1dpmbkdu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn5ohxaLFOuBSlTAxMuyNQ8-Hq4TRq-ts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728207512504-0k6b00sut7l2b6n2j4gf43d1dpmbkdu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
